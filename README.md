@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Full Stack Projects**
 
-- 💬 Ask me about **react, js,mongo node js**
+- 💬 Ask me about **js, react, mongo, node js**
 
 - 📫 How to reach me **srikar079@gmail.com**
 
